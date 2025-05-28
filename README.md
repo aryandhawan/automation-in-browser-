@@ -18,6 +18,6 @@ This project is intended for **practice and educational purposes only**.
 
 selenium-login-automation
 # Main automation script
-├── login_bot.py             
-  # Project documentation
-└── README.md           
+login_bot.py             
+# Project documentation
+README.md           
