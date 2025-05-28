@@ -16,7 +16,8 @@ This project is intended for **practice and educational purposes only**.
 - Selenium
 - ChromeDriver (or other browser driver)
 
-selenium-login-automation/
-├── login_bot.py          # Main automation script
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
+selenium-login-automation
+# Main automation script
+├── login_bot.py             
+  # Project documentation
+└── README.md           
